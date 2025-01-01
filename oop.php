@@ -100,8 +100,5 @@ echo "</br>";
 
 echo "Available copies of- '" .$book1->getTitle(). "' : " . $book1-> getAvailableCopies () . "</br>";
 echo "Available copies of- '" . $book2->getTitle() . "' : " . $book2-> getAvailableCopies () . "</br>";
-
-//Available Copies of 'The Great Gatsby': 4
-//Available Copies of 'To Kill a Mockingbird': 2
  
 ?>
