@@ -33,6 +33,4 @@ foreach ($strings as $item){
     $reverse = strrev($item);
     echo "Original String: " . $item. ", Vowel count: " . $numbers_of_vowel . ", Reversed String: " . $reverse. "</br>";
 }
-
-
 ?>
